@@ -23,8 +23,8 @@ function setup(){
 
     log1 = new Log(810, 310, 300, PI/2);
     log2 = new Log(810, 220, 300, PI/2);
-    log3 = new Log(735, 120, 150, PI/4);
-    log4 = new Log(865, 120, 150, 3*PI/4);
+    log3 = new Log(735, 120, 140, PI/4);
+    log4 = new Log(865, 120, 140, 3*PI/4);
 
     bird1 = new Bird();
 }
